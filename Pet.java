@@ -12,7 +12,7 @@ public class Pet {
     // Task 3: add priviate property ageMultiplier (int)
     private int ageMultiplier=1;
     
-    // constructor
+    // comment regarding constructor 
     
     public Pet(String someName, int someAge) {
         // task 1: assign the parameters to the properties name and age
